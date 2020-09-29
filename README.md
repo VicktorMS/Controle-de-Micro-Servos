@@ -1,6 +1,6 @@
 # TnikerCadProjeto1
-Projeto Com 4 Micro Servos controlados por 4 Potenciometros Usando Um Arduíno UNO
-Código Pronto pra uso.
+Projeto Com 4 Micro Servos controlados por 4 Potenciometros Usando Um Arduíno UNO.
+Código Pronto pra uso em ".ino".
 
 Código: 
 
